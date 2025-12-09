@@ -1,4 +1,2 @@
-#!/usr/bin/env bash
-VALUE1=32
-VALUE2=3
-echo $(($VALUE1/$VALUE2))
+#!/bin/bash
+echo $((POWER / DIVIDE))
