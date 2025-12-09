@@ -1,2 +1,2 @@
 #!/bin/bash
-echo ":-)"
+printf "\x22(\303\224o)'\n"
