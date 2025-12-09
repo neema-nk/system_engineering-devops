@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Counts the number of directories in the PATH environment variable.
+# Uses 'tr' to replace ':' with '\n' and 'wc -l' to count lines.
+echo "$PATH" | tr ':' '\n' | wc -l
