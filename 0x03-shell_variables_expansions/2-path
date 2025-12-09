@@ -1,3 +1,2 @@
-#!/usr/bin/env bash
-# Adds /action to the end of the PATH environment variable.
-PATH=$PATH:/action
+#!/bin/bash
+export PATH=$PATH:/action
