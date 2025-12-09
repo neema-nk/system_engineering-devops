@@ -1,4 +1,3 @@
 
-#!/usr/bin/env bash
-# Lists all local variables, environment variables, and shell functions.
+#!/bin/bash
 set
