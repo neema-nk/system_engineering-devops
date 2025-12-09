@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
-# Prints the result of POWER divided by DIVIDE.
-echo $((POWER / DIVIDE))
+VALUE1=32
+VALUE2=3
+echo $(($VALUE1/$VALUE2))

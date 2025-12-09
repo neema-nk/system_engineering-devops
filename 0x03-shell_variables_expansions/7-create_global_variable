@@ -1,3 +1,2 @@
 #!/usr/bin/env bash
-# Creates a new global variable named BEST with value School.
 export BEST=School

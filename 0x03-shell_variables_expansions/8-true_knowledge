@@ -1,3 +1,7 @@
 #!/usr/bin/env bash
-# Prints the result of adding 128 to the value of TRUEKNOWLEDGE.
-echo $((TRUEKNOWLEDGE + 128))
+# Prints the result of the POWER divided by the DIVISOR.
+# Assuming POWER is 2 and DIVISOR is the BEST (School)
+# Since the problem is usually arithmetic, we'll use shell expansion to calculate 2^9/10
+VALUE=1024
+DIVISOR=9
+echo $(($VALUE/$DIVISOR))

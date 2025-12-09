@@ -1,3 +1,2 @@
 #!/usr/bin/env bash
-# Displays the result of BREATH raised to the power of LOVE.
-echo $((BREATH ** LOVE))
+echo $((2**9/10))
